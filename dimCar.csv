@@ -1,0 +1,20 @@
+carID,carMake,carModel,accelSec,topSpeed_KmH,range_Km,efficiency_WhKm,fastCharge_KmH,rapidCharge,powerTrain,plugType,bodyStyle,segment,seats,priceEuro
+30011,Audi,e-tron GT,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000
+30021,BMW,iX3,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,68040
+30041,Ford,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,62900
+30050,Jaguar,I-Pace,4.8,200,365,232,340,Yes,AWD,Type 2 CCS,SUV,E,5,75351
+30051,Hyundai,Kona Electric,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,B,5,40795
+30060,Lexus,UX 300e,7.5,160,270,193,190,Yes,FWD,Type 2 CHAdeMO,SUV,C,5,50000
+30061,Kia,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105
+30070,Mazda,MX-30,9,150,180,178,240,Yes,FWD,Type 2 CCS,SUV,C,5,32646
+30071,Lucid,Air,2.8,250,610,180,620,Yes,AWD,Type 2 CCS,Sedan,F,5,105000
+30080,Mini,Cooper SE,7.3,150,185,156,260,Yes,FWD,Type 2 CCS,Hatchback,B,4,31681
+30081,Mercedes,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,D,5,69484
+30090,Nissan,Leaf,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234
+30091,Polestar,2,4.7,210,400,181,620,Yes,AWD,Type 2 CCS,Liftback,D,5,56440
+30101,Porsche,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781
+30131,Tesla,Model 3 Long Range,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480
+30132,Tesla,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990
+30133,Tesla,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990
+30134,Tesla,Model Y Long Range,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620
+30141,Volkswagen,ID.4,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000
